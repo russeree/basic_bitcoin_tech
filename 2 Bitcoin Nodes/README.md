@@ -21,7 +21,3 @@
 ![Slide21](images/21.jpg?raw=true)
 ![Slide22](images/22.jpg?raw=true)
 ![Slide23](images/23.jpg?raw=true)
-![Slide24](images/24.jpg?raw=true)
-![Slide25](images/25.jpg?raw=true)
-![Slide26](images/26.jpg?raw=true)
-![Slide27](images/27.jpg?raw=true)
