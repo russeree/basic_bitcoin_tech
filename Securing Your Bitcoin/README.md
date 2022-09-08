@@ -14,4 +14,3 @@
 ![Slide14](images/14.jpg?raw=true)
 ![Slide15](images/15.jpg?raw=true)
 ![Slide16](images/16.jpg?raw=true)
-![Slide17](images/17.jpg?raw=true)
